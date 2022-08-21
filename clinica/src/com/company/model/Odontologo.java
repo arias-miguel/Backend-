@@ -6,6 +6,8 @@ public class Odontologo {
     private String nombre;
     private String apellido;
 
+
+
     public int getNumeroMatricula() {
         return numeroMatricula;
     }
